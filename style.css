@@ -61,11 +61,11 @@ h1 {
 
 .circle:first-child {
     margin-left: 0;
-    color: #00298c;
+    color: #0085c7;
 }
 
 .circle:nth-child(2) {
-    color: #ffef08;
+    color: #f4c300;
 }
 
 
@@ -74,11 +74,11 @@ h1 {
 }
 
 .circle:nth-child(4) {
-    color: #087b39;
+    color: #009f3d;
 }
 
 .circle:nth-child(5) {
-    color: #de1818
+    color: #df0024;
 }
 
 .circle:nth-child(2n) {
