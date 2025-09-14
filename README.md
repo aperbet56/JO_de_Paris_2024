@@ -6,7 +6,7 @@ Création des anneaux olympiques en HTML5 et CSS3.
 
 ## Démonstration
 
-Lien vers le projet
+Lien vers le projet : https://aperbet56.github.io/JO_de_Paris_2024/
 
 ## Projet développé avec
 
