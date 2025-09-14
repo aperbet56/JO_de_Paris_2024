@@ -1,4 +1,4 @@
-## JO DE PARIS 2024
+## JO DE PARIS 2024 🥇 🥈 🥉
 
 ## Le challenge
 
