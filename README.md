@@ -1,5 +1,7 @@
 ## JO DE PARIS 2024 🥇 🥈 🥉
 
+![Design preview for the JO Paris 2024 project](./img/banner_jo.PNG)
+
 ## Le challenge
 
 Création des anneaux olympiques en HTML5 et CSS3.
